@@ -21,6 +21,7 @@ public class ChooseActivity extends AppCompatActivity {
 
     public static List<EventActivity> events_list = new ArrayList<>();
 
+    int x = 6;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
